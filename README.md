@@ -14,6 +14,7 @@ git close git@github.com:el-cn/auto_nps_server.git
 本地Server端
 ```
 chmod +x auto_nps_server.sh
+
 ./auto_nps_server.sh install
 
 ```
